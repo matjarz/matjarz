@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @matjarz
+- 👀 I’m interested in new technologies and software engineering
+- 🌱 I’m currently learning everything I can :)
